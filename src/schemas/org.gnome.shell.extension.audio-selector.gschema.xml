@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.audio-selector" 
+    path="/org/gnome/shell/extensions/audio-selector/">
+    <!-- See also: https://docs.gtk.org/glib/gvariant-format-strings.html -->
+    <key name="show-output-device-menu" type="b">
+      <default>true</default>
+    </key>
+    <key name="show-input-device-menu" type="b">
+      <default>false</default>
+    </key>
+  </schema>
+</schemalist>
