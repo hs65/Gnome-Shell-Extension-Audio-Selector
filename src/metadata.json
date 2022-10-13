@@ -3,7 +3,5 @@
   "description": "Select audio output and/or input port",
   "uuid": "audio-selector@harald65.simon.gmail.com",
   "url": "https://github.com/hs65/Gnome-Shell-Extension-Audio-Selector.git",
-  "shell-version": [
-    "42"
-  ]
+  "shell-version": [ "42", "43" ]
 }
